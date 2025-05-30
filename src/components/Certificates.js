@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav, Modal} from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import Lightbox from "react-image-lightbox";
-import "react-image-lightbox/style.css";
+import Lightbox from "react-18-image-lightbox";
+import "react-18-image-lightbox/style.css";
 import AWScerti from "../assets/img/AWScerti.png";
 import Jenkins from "../assets/img/Jenkins.jpg";
 import Jp from "../assets/img/Jp.jpg";
