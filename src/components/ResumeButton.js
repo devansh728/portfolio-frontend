@@ -97,7 +97,7 @@ const StyledButton = styled.a`
 `;
 
 export const ResumeButton = () => {
-  const googleDrivePdfUrl = "https://drive.google.com/file/d/14JNH64X2VtZ8-vtndRxu2BLf9IjLiarh/view?usp=sharing";
+  const googleDrivePdfUrl = "https://drive.google.com/file/d/1D5SKkXGzfsJdJTZDID5AaXOh5CSE5ubZ/view?usp=sharing";
 
   return (
     <StyledButton 
