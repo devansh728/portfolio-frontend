@@ -22,7 +22,7 @@ export const Contact = () => {
       [category]: value
     })
   }
-
+// changed the backend url
   const handleSubmit = async (e) => {
     e.preventDefault();
     setButtonText("Sending...");
